@@ -1,0 +1,117 @@
+    Pop
+        Pop Rock
+        Dance Pop
+        Synthpop
+        Contemporary R&B
+        Electropop
+
+    Rock
+        Classic Rock
+        Alternative Rock
+        Indie Rock
+        Hard Rock
+        Punk Rock
+
+    Hip-Hop/Rap
+        Trap
+        Gangsta Rap
+        Old School Hip-Hop
+        Conscious Hip-Hop
+        R&B/Hip-Hop
+
+    Electronic/Dance
+        House
+        Techno
+        Trance
+        Dubstep
+        Drum and Bass
+
+    Jazz
+        Traditional Jazz
+        Swing
+        Bebop
+        Cool Jazz
+        Fusion
+
+    Blues
+        Delta Blues
+        Chicago Blues
+        Electric Blues
+        Modern Blues
+
+    Country
+        Traditional Country
+        Country Pop
+        Bluegrass
+        Country Rock
+        Outlaw Country
+
+    Classical
+        Symphony
+        Concerto
+        Opera
+        Chamber Music
+        Choral
+
+    R&B/Soul
+        Soul
+        Funk
+        Neo-Soul
+        Motown
+        Contemporary R&B
+
+    Reggae
+        Roots Reggae
+        Dancehall
+        Dub
+        Ska
+
+    Metal
+        Heavy Metal
+        Thrash Metal
+        Death Metal
+        Black Metal
+        Power Metal
+
+    Folk
+        Traditional Folk
+        Contemporary Folk
+        World Folk
+
+    Gospel
+        Traditional Gospel
+        Contemporary Gospel
+
+    Latin
+        Salsa
+        Bachata
+        Reggaeton
+        Cumbia
+        Merengue
+
+    Blues
+        Gospel
+        Swing
+
+    World/International
+        African
+        Indian
+        Middle Eastern
+        Celtic
+
+    New Age/Ambient
+        Meditation
+        Relaxation
+        Space Music
+
+    Funk
+        Acid Jazz
+        Funk Rock
+
+    Punk
+        Pop Punk
+        Hardcore Punk
+
+    Experimental/Avant-garde
+        Noise
+        Abstract
